@@ -21,4 +21,9 @@ body {
   to {
     rotate: 360deg;
   }
+}
+.max2 img {
+  animation-name: rotation;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
 }/*# sourceMappingURL=style.css.map */
